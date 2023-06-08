@@ -8,6 +8,14 @@ we decided to make it about Greek mythology and pay tribute to it.</p>
 
 
 
+<h2>Sass Install</h2>
+<ol>
+  <li>npm install -D sass</li>
+   or
+  <li>npm install</li> 
+  <p>If you clone the repository</p>
+ </ol>
+
 <h2>Stack</h2>
 <ul>
   <li>Visual Studio Code </li>
@@ -17,8 +25,12 @@ we decided to make it about Greek mythology and pay tribute to it.</p>
   <li>SASS</li>
 </ul>
 
+
+
 <h2>Tribute Coders</h2>
 <ul>
   <li>Ana Rodríguez Pérez https://github.com/kayyra</li>
   <li>Dulce Ulgar https://github.com/DulceUlgar</li>
 </ul>
+
+
