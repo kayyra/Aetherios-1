@@ -6,7 +6,7 @@ Day 05/29/2023,  we are assigned the Tribute project in pairs, in this project w
 We both found that apart from having a lot in common, Greek mythology is what could give us the most play, so
 we decided to make it about Greek mythology and pay tribute to it.</p>
 
-![tribute](https://github.com/kayyra/Aetherios/assets/127655123/37959884-3c8c-4a22-ba8d-2656b5f7e5db)
+
 
 <h2>Stack</h2>
 <ul>
