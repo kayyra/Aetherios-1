@@ -1,3 +1,89 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+  
+}
 
+
+header{  
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 125px;
+    
+}
+
+header .logo img{    
+    width: auto;   
+    height: 200px;
+}
+
+#menu-hamburguesa{
+    display: none;
+    background-color: #fff;    
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+}
+
+#menu-hamburguesa ul li{
+    padding: 15px 0;    
+}
+
+
+#menu-hamburguesa ul li{
+   color: #fff;
+   font-size: 18px;
+   font-family: sans-serif;    
+}
+
+#menu-hamburguesa a{
+    color: #333;
+}
+
+#menu-hamburguesa a:hover{
+    background: #a57c00;
+}
+
+#boton-hamburguesa{
+    background: #fff;
+    color:#333;
+    font-size: 24px;
+    font-family: sans-serif;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 2rem;
+}
+
+
+
+
+
+@media screen and(min-width:992px) {
+    .nav-links li{
+        display: inline;
+        padding: 0 20px;
+    }
+    
+    .nav-links a{
+        color: #000;
+        text-decoration: none;
+    }
+    
+    .nav-links li a:hover{
+        color: #a57c00;
+    }
+    
+    .nav-links :active{
+        color: #a57c00;
+    }
+    
+    #boton-hamburguesa{
+        display: none;
+    }
+}
 
 /*# sourceMappingURL=style.css.map */
