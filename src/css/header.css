@@ -20,7 +20,7 @@ header .logo img{
     height: 200px;
 }
 
-#menu-hamburguesa{
+#hamburguer-menu{
     display: none;
     background-color: #fff;    
     cursor: pointer;
@@ -28,26 +28,26 @@ header .logo img{
     text-align: center;
 }
 
-#menu-hamburguesa ul li{
+#hamburguer-menu ul li{
     padding: 15px 0;    
 }
 
 
-#menu-hamburguesa ul li{
+#hamburguer-menu ul li{
    color: #fff;
    font-size: 18px;
    font-family: sans-serif;    
 }
 
-#menu-hamburguesa a{
+#hamburguer-menu a{
     color: #333;
 }
 
-#menu-hamburguesa a:hover{
+#hamburguer-menu a:hover{
     background: #a57c00;
 }
 
-#boton-hamburguesa{
+#hamburguer-button{
     background: #fff;
     color:#333;
     font-size: 24px;
@@ -81,7 +81,7 @@ header .logo img{
         color: #a57c00;
     }
     
-    #boton-hamburguesa{
+    #hamburguer-button{
         display: none;
     }
 }
