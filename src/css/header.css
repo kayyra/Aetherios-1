@@ -15,9 +15,9 @@ header{
     
 }
 
-header .logo img{    
+.logo img{    
     width: auto;   
-    height: 200px;
+    height: 100px;
 }
 
 #hamburguer-menu{
@@ -33,7 +33,7 @@ header .logo img{
 }
 
 
-#hamburguer-menu ul li{
+#hamburguer-menu ul li a{
     color: #fff;
     font-size: 18px;
     font-family: sans-serif;    
