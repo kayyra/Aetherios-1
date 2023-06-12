@@ -1,2 +1,8 @@
-@import url(../style.scss);
-@import url();
+@import url(reset.css);
+@import url(header-menu.css);
+@import url(banner.css);
+@import url(gallery.css);
+@import url(origin.css);
+@import url(othergods.css);
+@import url(underworld.css);
+@import url(footer.css);
