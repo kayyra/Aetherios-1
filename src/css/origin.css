@@ -12,11 +12,13 @@ h1{
 
 
 figcaption{
+    font-size: 20px;
     margin-bottom: 10px;
-   margin-left:6rem;
+    margin-left:6rem;
 }
 
 p{
+    font-size: 20px;
     margin:5px;
     margin-bottom: 15px;
 }
