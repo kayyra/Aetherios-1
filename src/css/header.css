@@ -8,16 +8,16 @@
 
 
 header{  
-   display: flex;
+
    justify-content: space-between;
    align-items: center;
    height: 125px;
     
 }
 
-.logo img{    
+header .logo img{    
     width: auto;   
-    height: 100px;
+    height: 300px;
 }
 
 #hamburguer-menu{
@@ -29,11 +29,12 @@ header{
 }
 
 #hamburguer-menu ul li{
-    padding: 15px 0;    
+    padding: 15px 0;
+   
 }
 
 
-#hamburguer-menu ul li a{
+#hamburguer-menu ul li {
     color: #fff;
     font-size: 18px;
     font-family: sans-serif;    
