@@ -6,16 +6,9 @@ Day 05/29/2023,  we are assigned the Tribute project in pairs, in this project w
 We both found that apart from having a lot in common, Greek mythology is what could give us the most play, so
 we decided to make it about Greek mythology and pay tribute to it.</p>
 
-![Capturad](https://github.com/kayyra/Aetherios-1/assets/127655123/90c0bffb-b076-40e5-bf53-c194a80ed055)
 
+![Captura](https://github.com/kayyra/Aetherios-1/assets/127655123/e329beaf-9680-4729-aa25-a7c874a2006f)
 
-<h2>Sass Install</h2>
-<ol>
-  <li>npm install -D sass</li>
-   or
-  <li>npm install</li> 
-  <p>If you clone the repository</p>
- </ol>
 
 <h2>Stack</h2>
 <ul>
